@@ -1,0 +1,22 @@
+:root {
+  --color-1: #3D373C;
+  --color-2: #2F9331;
+  --color-3: #477385;
+  --color-4: #926F44;
+  --color-5: #8BCF21;
+  --color-6: #C19978;
+  --color-7: #83D2E4;
+  --color-8: #E5D29F;
+  --color-9: #E7E0DB;
+  --color-10: #9d544a;
+  --color-11: #b5c1c3;
+  --color-12: #26354b;
+  --color-13: #36445c;
+  --color-14: #e7f8f8;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inconsolata', monospace;
+  background: rgb(19, 25, 36);
+}
